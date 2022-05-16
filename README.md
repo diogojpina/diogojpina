@@ -35,6 +35,7 @@
 ![node](https://img.shields.io/badge/Node.JS-323330?style=for-the-badge&logo=node&logoColor=F7DF1E)
 ![express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=node&logoColor=F7DF1E)
 ![graphql](https://img.shields.io/badge/GraphQL-323330?style=for-the-badge&logo=node&logoColor=F7DF1E)
+![meteor](https://img.shields.io/badge/Meteor-323330?style=for-the-badge&logo=node&logoColor=F7DF1E)
 ![php](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
 ![laravel](https://img.shields.io/badge/Laravel-3776AB?style=for-the-badge&logo=php&logoColor=white)
 ![symfony](https://img.shields.io/badge/Symfony-3776AB?style=for-the-badge&logo=php&logoColor=white)
@@ -46,6 +47,7 @@
 ### Mobile Development
 ![react-native](https://img.shields.io/badge/React%20Native-28B6F6?style=for-the-badge&logo=react-native&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 ## 📈 Stats
 

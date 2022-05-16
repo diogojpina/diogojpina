@@ -32,7 +32,7 @@
 ### Back-End Development
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![node](https://img.shields.io/badge/Node.JS-#339933?style=for-the-badge&logo=nodedotjs&logoColor=F7DF1E)
+![node](https://img.shields.io/badge/Node.JS-#339933?style=for-the-badge&logo=node.js&logoColor=F7DF1E)
 ![express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=express&logoColor=F7DF1E)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 ![meteor](https://img.shields.io/badge/Meteor-323330?style=for-the-badge&logo=meteor&logoColor=F7DF1E)

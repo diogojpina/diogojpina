@@ -49,6 +49,8 @@
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 
 
+
+<!--
 ## 📈 Stats
 
 <div align="center">
@@ -58,6 +60,7 @@
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=diogojpina.diogojpina" alt="visitors">
 </div>
+-->
 
 ## 🔗 Links
 

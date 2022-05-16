@@ -12,7 +12,7 @@
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![php](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Front-End Development
@@ -36,9 +36,9 @@
 ![express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=express&logoColor=F7DF1E)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 ![meteor](https://img.shields.io/badge/Meteor-323330?style=for-the-badge&logo=meteor&logoColor=F7DF1E)
-![php](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
-![laravel](https://img.shields.io/badge/Laravel-3776AB?style=for-the-badge&laravel=php&logoColor=white)
-![symfony](https://img.shields.io/badge/Symfony-3776AB?style=for-the-badge&symfony=php&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-3776AB?style=for-the-badge&logo=laravel&logoColor=white)
+![symfony](https://img.shields.io/badge/Symfony-3776AB?style=for-the-badge&logo=symfony&logoColor=white)
 ![zend](https://img.shields.io/badge/Zend-3776AB?style=for-the-badge&logo=zend&logoColor=white)
 ![opencart](https://img.shields.io/badge/Opencart-3776AB?style=for-the-badge&logo=opencart&logoColor=white)
 ![magento](https://img.shields.io/badge/Magento-3776AB?style=for-the-badge&logo=magento&logoColor=white)

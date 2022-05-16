@@ -32,11 +32,12 @@
 ### Back-End Development
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![node](https://img.shields.io/badge/Node.JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![php](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
 
 
 ### Mobile Development
-![react-native](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=react-native&logoColor=white)
+![react-native](https://img.shields.io/badge/React%20Native-28B6F6?style=for-the-badge&logo=react-native&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 📈 Stats
